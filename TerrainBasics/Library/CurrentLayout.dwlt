@@ -71,7 +71,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 70
+  controlID: 95
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -458,7 +458,7 @@ MonoBehaviour:
     height: 295
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 64010000
+    m_SelectedIDs: 
     m_LastClickedID: 0
     m_ExpandedIDs: d6fbffff00000000
     m_RenameOverlay:
@@ -552,12 +552,13 @@ MonoBehaviour:
     m_ScenePaths: []
     m_ShowAllHits: 0
     m_SearchArea: 0
-    m_Folders: []
+    m_Folders:
+    - Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Joshua\Desktop\UnityGames\SandboxProjects\Projects\TerrainBasics
+  m_LastProjectPath: C:\Users\Joshua\Desktop\UnityGames\SandboxProjects\SandboxSampleProjects\TerrainBasics
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
@@ -588,10 +589,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 92}
+    scrollPos: {x: 0, y: 12}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d2240000322500003e2500007225000082260000c8260000
+    m_ExpandedIDs: 00000000d22400001a2500003e250000722500009e250000c8260000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -754,9 +755,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 173.53555, y: 7.119404, z: 231.03519}
+    m_Target: {x: 192.1709, y: 7.119404, z: 163.49469}
     speed: 2
-    m_Value: {x: 173.53555, y: 7.119404, z: 231.03519}
+    m_Value: {x: 192.1709, y: 7.119404, z: 163.49469}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -779,7 +780,7 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.09742798, y: 0.84025675, z: -0.16099747, w: -0.50848407}
+    m_Target: {x: -0.09742799, y: 0.8402568, z: -0.16099748, w: -0.5084841}
     speed: 2
     m_Value: {x: -0.09742799, y: 0.8402568, z: -0.16099748, w: -0.5084841}
   m_Size:

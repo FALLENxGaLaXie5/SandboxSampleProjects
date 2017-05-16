@@ -1,0 +1,94 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Sandbox999\Documents\Unity_Games\NumberWizard_2D_UI\NumberWizard_2D_UI_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Sandbox999\Documents\Unity_Games\NumberWizard_2D_UI\NumberWizard_2D_UI_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Sandbox999\Documents\Unity_Games\NumberWizard_2D_UI\NumberWizard_2D_UI_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Sandbox999\Documents\Unity_Games\NumberWizard_2D_UI\NumberWizard_2D_UI_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Sandbox999\Documents\Unity_Games\NumberWizard_2D_UI\NumberWizard_2D_UI_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Sandbox999\Documents\Unity_Games\NumberWizard_2D_UI\NumberWizard_2D_UI_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Sandbox999\Documents\Unity_Games\NumberWizard_2D_UI\NumberWizard_2D_UI_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Sandbox999\Documents\Unity_Games\NumberWizard_2D_UI\NumberWizard_2D_UI_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Sandbox999\Documents\Unity_Games\NumberWizard_2D_UI\NumberWizard_2D_UI_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Sandbox999\Documents\Unity_Games\NumberWizard_2D_UI\NumberWizard_2D_UI_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Sandbox999\Documents\Unity_Games\NumberWizard_2D_UI\NumberWizard_2D_UI_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Sandbox999\Documents\Unity_Games\NumberWizard_2D_UI\NumberWizard_2D_UI_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.057 seconds
+Platform assembly: C:\Users\Sandbox999\Documents\Unity_Games\NumberWizard_2D_UI\NumberWizard_2D_UI_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Sandbox999\Documents\Unity_Games\NumberWizard_2D_UI\NumberWizard_2D_UI_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.621036 ms
+Level load requested for: Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.237921 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 161.
+Total: 0.325530 ms (FindLiveObjects: 0.038320 ms CreateObjectMapping: 0.024493 ms MarkObjects: 0.255604 ms  DeleteObjects: 0.006320 ms)
+
+Level load requested for: Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.295801 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 174.
+Total: 0.762073 ms (FindLiveObjects: 0.051753 ms CreateObjectMapping: 0.043851 ms MarkObjects: 0.649481 ms  DeleteObjects: 0.015012 ms)
+
+Level load requested for: Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.265777 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 161.
+Total: 0.435752 ms (FindLiveObjects: 0.041876 ms CreateObjectMapping: 0.031999 ms MarkObjects: 0.351209 ms  DeleteObjects: 0.009086 ms)
+
+Level load requested for: Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.892049 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 174.
+Total: 0.546370 ms (FindLiveObjects: 0.035555 ms CreateObjectMapping: 0.028444 ms MarkObjects: 0.468147 ms  DeleteObjects: 0.011851 ms)
+
+Level load requested for: Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.621727 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 161.
+Total: 0.744296 ms (FindLiveObjects: 0.061234 ms CreateObjectMapping: 0.069925 ms MarkObjects: 0.597333 ms  DeleteObjects: 0.013432 ms)
+
+Level load requested for: Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.353085 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 174.
+Total: 0.803950 ms (FindLiveObjects: 0.050172 ms CreateObjectMapping: 0.043456 ms MarkObjects: 0.693333 ms  DeleteObjects: 0.014617 ms)
+
+I wanna quit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 13f4 -> priority: 1 
